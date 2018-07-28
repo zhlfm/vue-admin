@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 git init
-git config user.name 'zhanghuai'
+git config user.name 'zhlfm'
 git config user.email '2926026692@qq.com'
 git config credential.helper store
 git remote rm origin
